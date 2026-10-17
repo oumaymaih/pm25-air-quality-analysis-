@@ -4,6 +4,8 @@
 
 This project explores hourly air-quality measurements from the ARC Air monitoring station in Ben Guerir, Morocco. The analysis focuses on PM2.5 concentrations, their temporal variability, high-concentration observations, and their associations with other measured variables.
 
+![PM2.5 Analysis](Analysis_Overview.png)
+
 The notebook includes:
 - dataset inspection and data-quality checks;
 - transformation from long format to wide format;
